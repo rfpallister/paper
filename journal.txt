@@ -27,4 +27,10 @@ This study used a commercial SPICE-based circuit capture & simulation CAD packag
 
 RESULTS
 -------
-A variety of data was obtained.  The graph-based simulations were used to test a variety of design options, saving the time and expense of trying the simulated options in hardware form.
+A variety of data was obtained.  The graph-based simulations were used to test a variety of design options, 
+saving the time and expense of trying the simulated options in hardware form.
+
+
+ABSTRACT:
+---------
+Describes use of CAD simulation, and the advantages that this process offers over hardware testing.
