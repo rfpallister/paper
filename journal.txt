@@ -33,3 +33,7 @@ A variety of data was obtained.  The graph-based simulations were used to test a
 FIGURES:
 --------
 This will contain all my data.
+
+ACKNOWLEDGEMENTS:
+-----------------
+We are very grateful to Trafford College for the initial training that underlies the Methodology used in this project.
