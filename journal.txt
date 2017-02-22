@@ -1,4 +1,3 @@
- 
 Arbitary sample text for the purpose of checking that it comes back in an unadulterated and unexpurgated form.
 But also:-
 
@@ -16,4 +15,6 @@ Credit due to support team.
 SIMULATIONS:
 It was found that there were issues with response of the oV clamping function due to the time constant in the circuit.  
 The simulations indicated that a solution could be obtained by several means.
+
+Es wurde gefunden, dass es Problemen mit die Auswirkung des „Clamping“-Funktion gibt, wegen des Zeit-Konstants (?) im Schallkreis.
 
