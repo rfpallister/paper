@@ -1,8 +1,8 @@
 Arbitary sample text for the purpose of checking that it comes back in an unadulterated and unexpurgated form.
 But also:-
 
-Author: RFP
-Title: The gist is this
+Authors: RFP, Jemand
+Title: Observations and simulations of analog harmonic multiplication
 
 Intro:
 With no prior preparation, RFP-Noland leapt in.  What risk does this present, in reality?
