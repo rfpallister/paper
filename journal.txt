@@ -25,6 +25,11 @@ METHODOLOGY:
 This study used a commercial SPICE-based circuit capture & simulation CAD package (PROTEUS).
 
 
-RESULTS
--------
+RESULTS:
+--------
 A variety of data was obtained.  The graph-based simulations were used to test a variety of design options, saving the time and expense of trying the simulated options in hardware form.
+
+
+FIGURES:
+--------
+This will contain all my data.
