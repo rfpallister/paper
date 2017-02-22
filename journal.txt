@@ -14,7 +14,12 @@ Credit due to support team.
 
 
 SIMULATIONS:
+------------
 It was found that there were issues with response of the oV clamping function due to the time constant in the circuit.  
 The simulations indicated that a solution could be obtained by several means.
 Es wurde gefunden, dass es gibt Problemen mit dem Funktionnieren des 0V „Clamp“, wegen des Zeit-Konstant im Schallkreis.
 
+
+METHODOLOGY:
+------------
+This study used a commercial SPICE-based circuit capture & simulation CAD package (PROTEUS).
