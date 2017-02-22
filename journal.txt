@@ -23,3 +23,8 @@ Es wurde gefunden, dass es gibt Problemen mit dem Funktionnieren des 0V „Clamp“,
 METHODOLOGY:
 ------------
 This study used a commercial SPICE-based circuit capture & simulation CAD package (PROTEUS).
+
+
+RESULTS
+-------
+A variety of data was obtained, at a rate in and in an amount of detail that was far more time-effective than hardware testing.
